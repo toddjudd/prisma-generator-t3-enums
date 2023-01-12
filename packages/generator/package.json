@@ -15,7 +15,7 @@
     "dev": "npx tsc -w",
     "build": "npx tsc",
     "prepack": "yarn build",
-    "test": "jest"
+    "test": "jest --passWithNoTests"
   },
   "dependencies": {
     "@prisma/client": "3.12.0",
