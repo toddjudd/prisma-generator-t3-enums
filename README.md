@@ -49,7 +49,7 @@ add the generator to the `schema.prisma`. You can define the output dir of the g
 
 ```prisma
 generator custom_generator {
-  provider = "prisma-generator-enum-export"
+  provider = "prisma-generator-t3-enums"
   output   = "../types"
 }
 ```
