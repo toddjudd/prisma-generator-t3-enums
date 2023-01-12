@@ -1,3 +1,15 @@
+<div align="center">
+  <a href="https://www.npmjs.com/package/prisma-generator-t3-enums"><img src="https://img.shields.io/npm/v/prisma-generator-t3-enums.svg?style=flat" /></a>
+  <a href="https://npmcharts.com/compare/prisma-generator-t3-enums?minimal=true"><img src="https://img.shields.io/npm/dm/prisma-generator-t3-enums.svg?style=flat"/></a>
+  <a href="https://github.com/YassinEldeeb/prisma-generator-t3-enums/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
+  <a href="https://github.com/YassinEldeeb/prisma-generator-t3-enums/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" /></a>
+  <br />
+  <br />
+  <a href="https://github.com/YassinEldeeb/prisma-generator-t3-enums#Usage">Usage</a>
+  <br />
+  <hr />
+</div>
+
 # Motivation
 
 Working with enums can be a foot gun! Theo Browne explains this well in his "[TypeScript's Worst Feature (And How To Avoid It)](youtube.com/watch?v=Anu8vHXsavo)" video.
