@@ -1,1 +1,1 @@
-export const GENERATOR_NAME = 'prisma-generator-enum-export'
+export const GENERATOR_NAME = 'prisma-generator-t3-enums'
