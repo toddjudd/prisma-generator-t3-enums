@@ -1,7 +1,7 @@
 {
   "name": "prisma-generator-t3-enums",
   "description": "Prisma generator to export enums as TypeScript types following the T3 pattern",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "dist/generator.js",
   "license": "MIT",
   "bin": {
@@ -14,7 +14,7 @@
     "start": "node dist/bin.js",
     "dev": "npx tsc -w",
     "build": "npx tsc",
-    "prepack": "yarn build",
+    "prepack": "npm run build",
     "test": "jest --passWithNoTests"
   },
   "dependencies": {
