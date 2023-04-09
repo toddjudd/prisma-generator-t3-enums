@@ -57,3 +57,7 @@ generator custom_generator {
 use `npx prisma generate` to generate the enum exports
 
 > This generator was bootstraped using [create-prisma-generator](https://github.com/YassinEldeeb/create-prisma-generator)
+
+## Contributing
+
+PRs are welcome!
